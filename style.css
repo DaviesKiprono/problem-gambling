@@ -1,0 +1,199 @@
+body {
+    font-size: 15pt;
+}
+  .li {display: inline; 
+  float: left;
+  height:40px;
+  padding:8px;
+  color:white;
+  text-transform: uppercase ;
+  text-decoration: none;
+}
+.tip1{text-transform : lowercase;
+text-decoration: none;
+}
+
+.button {
+    background-color: orange;
+    text-decoration: none;
+    padding: 5px 7px;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 5px;
+    display: inline-block;
+    transition: .8s ease
+  }
+  
+  button:hover {
+    -webkit-box-shadow: 0px 0px 100px 0px rgba(255, 165, 0, 1);
+    -moz-box-shadow: 0px 0px 100px 0px rgba(255, 165, 0, 1);
+    box-shadow: 0px 0px 70px 0px rgba(255, 165, 0, 1);
+    transition: .8s ease;
+  }
+  .seen{color: red;
+    
+  }
+  .em{color: gold ;
+    
+  }
+.navbar{ 
+background-color: rgba(0,0,0,0.47);
+list-style-type : navy;
+text-transform: uppercase;
+padding: 0;
+overflow : hidden ;
+height: 80px
+  
+}
+
+li{ 
+  float: left;
+  color: white;
+  text-align: centre;
+  padding: 14px 16px;
+  border-right: 1px solid ;
+  
+}
+ul
+  /* separate the bar with equal grey line except the last-child(last-child)*/ 
+/* Change the background color of the dropdown button when the dropdown content is shown */ 
+    .dropdown a:hover {background-color: #ddd}
+
+  
+/* change the color of the icon on clicking to color:gold */
+  .homeicon a:hover { background-color: rgba(250, 250, 210)}
+.davi{
+  align-items: center;
+  justify-content:  Center;
+  color:black;
+  margin-top: 87px;
+  width:800px;
+  margin-left:110px;
+}
+.davi a{
+  color:black;
+  text-decoration: none;
+}
+  
+
+
+.web{
+  text-decoration: none;
+  color: rgba(0,100,0 ,1 );
+  text-transform: lowercase;
+}
+.about {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 2px;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;  }
+  
+  .header{ 
+    color: blue;
+    text-decoration: none;
+  
+  } 
+  
+  .para{ 
+    color: grey;
+    background-color: rgba(0, 0,0,0.40 );
+    background-image: url(bbc.png) ;
+    height:100%;
+  }
+  .ah{ color: rgb(0,100,0,1)
+      }
+  .lowercase{
+    text-transform: uppercase ;
+  }
+  .tip1{ 
+    text-transform: lowercase ;
+    
+    
+  }
+  
+  /* Dropdown Button */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .pmg {background-color: #3e8e41;}
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content2 a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown2:hover .dropdown-content2 {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .pmg2{
+  background-color: #3e8e41;}
+  .arc{
+    color: red ;
+    
+    
+  }
+
